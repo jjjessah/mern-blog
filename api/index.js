@@ -11,5 +11,3 @@ mongoose.connect(process.env.MONGO).then(() => {
 });
 
 const app = express();
-
-
